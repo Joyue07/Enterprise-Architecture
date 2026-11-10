@@ -94,26 +94,7 @@ Proposed mitigation measures to address critical security risks and improve syst
 
 *Note: The technology stack represents a proposed enterprise architecture. The systems were not deployed as part of this academic project.*
 
-## 5. Project Documentation
-
-The full project report and selected diagrams are available below:
-
-- [Final Enterprise Architecture Report](docs/final-report.pdf)
-- [Project Presentation](docs/project-presentation.pdf)
-
-### Selected Diagrams
-
-<!-- Add project diagram images to the diagrams/ folder -->
-
-| Model | Diagram |
-|---|---|
-| Value Network | [VDML Model](diagrams/value-network-vdml.pdf) |
-| Business Goals | [BMM Goal Model](diagrams/goal-model-bmm.pdf) |
-| Business Processes | [REA Models](diagrams/rea-models.pdf) |
-| Business Processes | [EPC Models](diagrams/process-models-epc.pdf) |
-| IT Systems | [IT Architecture](diagrams/it-architecture+KPI.pdf) |
-
-## 6. Team Project & Contributions
+## 5. Team Project & Contributions
 
 This was a collaborative academic project developed as part of the Enterprise Computing and ERP Systems course at Stockholm University.
 
